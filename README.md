@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=godhand1607&show_icons=true&include_all_commits=true&hide_border=true&theme=dark&count_private=true" alt="Adrian's github stats" /></a> <br/> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godhand1607&layout=compact&hide_border=true&theme=dark&count_private=true&langs_count=6" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=godhand1607&theme=dark&hide_border=true" /></a> |
+| ---- | ---- |
+
+
 <!--
 **godhand1607/godhand1607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
